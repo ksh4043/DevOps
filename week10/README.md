@@ -1,5 +1,5 @@
 # replicas = 5
-
+![image](images/replicas5.png)
 
 # 서비스를 통과한 요청에서 서로 다른 Pod hostname 기록
 - 5kbtk
