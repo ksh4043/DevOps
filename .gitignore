@@ -1,3 +1,4 @@
 .env
 kubectl
 minikube-linux-amd64
+guestbook/k8s/secret.yaml
